@@ -46,5 +46,5 @@ class Chronometer {
       seconds
     )}`;
   }
-  //
+  ///
 }
